@@ -5,8 +5,8 @@ import { LinearProgress } from '@material-ui/core';
 import AddShoppingCartIcon from '@material-ui/icons/AddShoppingCart';
 import Badge from '@material-ui/core/Badge';
 import {Wrapper, StyledButton} from './Styles';
-import Product from './Product/Product';
-import Cart from './Cart/Cart';
+import Product from './Components/Product/Product';
+import Cart from './Components/Cart/Cart';
 import { ShoppingCartHook } from './ShoppingCartHook';
 
 const App = () => {

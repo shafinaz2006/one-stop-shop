@@ -1,5 +1,5 @@
 import Button from '@material-ui/core/Button';
-import { Products } from '../ShoppingCartHook';
+import { Products } from '../../ShoppingCartHook';
 import {Wrapper} from './CartItem.Styles';
 
 type Props = {

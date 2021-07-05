@@ -1,6 +1,6 @@
 
 import styled from 'styled-components';
-import { device } from '../StyleConstants';
+import { device } from '../../StyleConstants';
 
 export const Wrapper = styled.div`
   display: flex;
